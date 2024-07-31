@@ -1,4 +1,4 @@
-# app_flutter_registros
+# app_flutter_photoandfarm
 
 ### Autor
     Roberto Pereira de Freitas Neto
@@ -53,7 +53,10 @@
 
     - É necessário que haja pelo menos uma fazenda cadastrada para conseguir
     registrar uma pessoa, bem como é necessário existir uma pessoa cadastrada para cadastrar e enviar uma foto para api
+    
+## Sobre o recebimento de fotos
 
-    - Ao obter a mensagem de sucesso, basta verificar na basta /media em sua pasta da api
+ - Apenas uma imagem por vez
+ - todas as fotos serão salvas na pasta `/media/photos`
 
 
